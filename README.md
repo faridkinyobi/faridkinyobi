@@ -1,4 +1,4 @@
-# _Frdknyb_
+# I'm _frdknyb_ 👋
 <div style="display: flex; flex-direction: row; justify-content: space-evenly; padding: 12px;">
 <div align="center" style="padding: 0 20px;">
   <!-- <p align="center"> -->
