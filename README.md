@@ -18,7 +18,7 @@
 <a href="https://www.youtube.com/c/kinyobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinyobi_02" height="30" width="40" /></a>
 </p>
 
-<div style="border-left: 1.5px solid #595957; padding: 0 1rem ;width: 50%">
+<div  align="left" style="border-left: 1.5px solid #595957; padding: 0 1rem ;width: 50%">
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
