@@ -1,21 +1,18 @@
 # I'm _frdknyb_ 👋
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; padding: 12px;">
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 <div align="center" style="padding: 0 20px;">
   <!-- <p align="center"> -->
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/kinyobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinyobi" height="30" width="40" /></a>
-<a href="https://instagram.com/_frdknyb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_frdknyb_" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/kinyobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinyobi_02" height="30" width="40" />
-</a>
+<a href="https://instagram.com/_frdknyb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_frdknyb_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kinyobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinyobi_02" height="30" width="40" /></a>
 <br><br>
     <img alt="telegram" src="https://www.codewars.com/users/moeka/badges/micro"> <img alt="telegram" src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frizkyizh&logo=leetcode&logoColor=yellow">
 		<br><br>
   <!-- </p> -->
   </div>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faridkinyobi&show_icons=true&locale=en&layout=compact" alt="faridkinyobi" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faridkinyobi&show_icons=true&locale=en&layout=compact" alt="faridkinyobi" /></p>
+ -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faridkinyobi&show_icons=true&locale=en" alt="faridkinyobi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faridkinyobi&" alt="faridkinyobi" /></p>
@@ -42,4 +39,5 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+</div>
 </div>
