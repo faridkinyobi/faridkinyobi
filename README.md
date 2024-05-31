@@ -10,6 +10,11 @@
   <!-- </p> -->
   </div>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faridkinyobi&show_icons=true&locale=en&layout=compact" alt="faridkinyobi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faridkinyobi&show_icons=true&locale=en" alt="faridkinyobi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faridkinyobi&" alt="faridkinyobi" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
