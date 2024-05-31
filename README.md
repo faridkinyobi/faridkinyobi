@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm _frdknyb_</h1>
 <h3 align="center">A passionate frontend developer from Surakarta</h3>
 
-<div align="center" style="padding: 0 20px;">
+<div align="center" padding: 12px;>
 <a href="https://linkedin.com/in/kinyobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinyobi" height="30" width="40" /></a>
 <a href="https://instagram.com/_frdknyb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_frdknyb_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kinyobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinyobi_02" height="30" width="40" /></a>
