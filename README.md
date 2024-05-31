@@ -4,7 +4,8 @@
 <div align="center" padding: 12px;>
 <a href="https://linkedin.com/in/kinyobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinyobi" height="30" width="40" /></a>
 <a href="https://instagram.com/_frdknyb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_frdknyb_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kinyobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinyobi_02" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kinyobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinyobi_02" height="30" width="40" /></a> <br></dr>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faridkinyobi&show_icons=true&locale=en&layout=compact" alt="faridkinyobi" /></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,8 +30,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faridkinyobi&show_icons=true&locale=en&layout=compact" alt="faridkinyobi" /></p>
-
+<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faridkinyobi&show_icons=true&locale=en" alt="faridkinyobi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faridkinyobi&" alt="faridkinyobi" /></p>
+</div>
