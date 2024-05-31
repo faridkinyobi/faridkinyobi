@@ -35,3 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faridkinyobi&" alt="faridkinyobi" /></p>
 </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faridkinyobi&repo=github-readme-stats)](https://github.com/faridkinyobi/github-readme-stats)
