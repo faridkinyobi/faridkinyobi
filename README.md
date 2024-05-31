@@ -11,9 +11,9 @@
 		<br><br>
   <!-- </p> -->
   </div>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faridkinyobi&show_icons=true&locale=en&layout=compact" alt="faridkinyobi" /></p>
- -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faridkinyobi&show_icons=true&locale=en" alt="faridkinyobi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faridkinyobi&show_icons=true&locale=en&layout=compact" alt="faridkinyobi" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faridkinyobi&" alt="faridkinyobi" /></p>
 
