@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm _frdknyb_</h1>
-<h3 align="center">A passionate frontend developer from Surakarta</h3>
+<h3 align="center">A passionate web developer from Surakarta</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kinyobi" target="_blank">
