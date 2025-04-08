@@ -38,7 +38,7 @@
 </p>
 <p align="center" style=" margin-top:10px ">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=faridkinyobi&show_icons=true&locale=en" alt="faridkinyobi" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridkinyobi&" alt="faridkinyobi" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridkinyobi&" alt="faridkinyobi" /> -->
 </p>
 
 
